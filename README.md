@@ -2,7 +2,7 @@ CS112.L23.KHCL - Design and Analysis of Algorithm
 ---
 
 **Lecturer**
-- MSc. Nguyen Thanh Son
+- Mr. Nguyen Thanh Son
 
 ---
 
